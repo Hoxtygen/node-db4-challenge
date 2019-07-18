@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.0",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "nodemon": "^1.19.1"
+  },
+  "name": "db4-challenge",
+  "description": "## Topics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoxtygen/node-db4-challenge.git"
+  },
+  "author": "Wasiu Idowu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hoxtygen/node-db4-challenge/issues"
+  },
+  "homepage": "https://github.com/Hoxtygen/node-db4-challenge#readme"
+}
